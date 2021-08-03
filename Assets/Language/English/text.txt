@@ -1,0 +1,184 @@
+﻿translatedBy:=Koker 007
+
+menuButtonReturn:=
+menuButtonPlay:=
+menuButtonConnect:=
+menuButtonReseach:=
+menuButtonSettings:=
+menuButtonExit:=
+
+menuPlayTitle:=
+menuPlayButtonSingle:=
+menuPlayButtonServer:=
+menuPlayButtonStart:=
+menuPlayServerParametrName:=
+menuPlayServerParametrMaxPlayers:=
+menuPlayServerParametrPassword:=
+
+menuResearchInfo:=Neirodata is required to study technology, you take with you all the neirodata collected only when you win, it takes some time to reserch technologies, after starting the research, you can start a new game without waiting for completion reserch, the technologies will be available immediately after completing their study.
+
+menuConnectTitle:=
+menuConnectButtonRefresh:=
+menuConnectPassword:=
+menuConnectButtonConnect:=
+menuConnectInfoClickToJoin:=
+menuConnectInfoChooseALobby:=
+menuConnectInfoInputPassword:=
+menuConnectInfoNotCorrectPassword:=
+menuConnectInfoLobbyIsFull:=
+menuConnectLobbyInfoName:=
+menuConnectLobbyInfoPass:=
+menuConnectLobbyInfoGame:=
+menuConnectLobbyInfoPlayers:=
+
+menuSetingsTitle:=
+menuSetingsSound:=
+menuSetingsVolumeAll:=
+menuSetingsVolumeMusic:=
+menuSetingsVolumeSound:=
+menuSetingsVideo:=
+menuSetingsWindowSize:=
+menuSetingsFullscreen:=
+menuSetingsGraphic:=
+menuSetingsShader:=
+menuSetingsGame:=
+menuSetingsLanguage:=
+menuSetingsInfoChangesTobeAfterRestartGame:=
+
+menuExitTitle:=
+menuExitNo:=
+menuExitYes:=
+
+menuGameplay1Title:=
+menuGameplay1Seed:=
+menuGameplay1EnterSeed:=
+menuGameplay1Verified:=
+menuGameplay1Random:=
+menuGameplay1Color:=
+menuGameplay1PlayerName:=
+menuGameplay1PlayerColor:=
+menuGameplay1PlayerReadiness:=
+menuGameplay1ReadyToPlay:=
+
+Gameplay2UpPanelButtonMenu:=Menu
+Gameplay2UpPanelButtonEscape:=Escape
+
+Gameplay4Victory:=
+Gameplay4Defeat:=
+Gameplay4Seed:=
+Gameplay4GameplayTime:=
+Gameplay4Kills:=
+Gameplay4Neirodata:=
+Gameplay4DefeatText:=the defeated one does not write history
+Gameplay4ButtonRestart:=
+
+buttonSeedRandom:=Random seed, route generator may get stuck.
+buttonSeedVerified:=Only verified seed that players have already played on and robots reach the base.
+
+targetModeInfoSpeedMax:=Target priority on maximum speed
+targetModeInfoHeathMax:=Target priority on maximum heath
+targetModeInfoDistMax:=Priority to the farthest visible target
+targetModeInfoTraficMax:=Target priority to the farthest on route
+targerModeInfoSpeedMin:=Target priority on minimum speed
+targetModeInfoHeathMin:=Target priority on mininun heath
+targetModeInfoDistMin:=Priority to the nearest visible target
+targetModeInfoTraficMin:=Target priority to the nearest on route
+
+buttonReadyEscape:=Escape to the Martian base and take your collected neurodata with you. You can stay and try to collect more neurodata, but you will only be able to fly away when Mars is close to Earth again.
+
+buttonInfoDestroy:=Destroy the construction, get 50% of its final cost.
+buttonInfoPlatform:=Build Platform, Basis for building cannons, impedes the movement of enemies.
+
+buttonInfoBlockCrab:=blocking the movement of large enemies.
+buttonInfoBlockCar:=blocking the movement of land transport.
+
+buttonInfoPillBox:=Build Pillbox, can take several tech in a row, suitable only for early stages of defense.
+buttonInfoArtillery:=Build Artillery, shoots a projectile in a parabola, line of sight of the target is not required, area damage. Requires improvement to reach its full potential.
+buttonInfoTurret:=Build Turret, high projectile damage, low rate of fire.
+buttonInfoMinigun:=Build Minigun, very hight speed fire, slow rotate
+buttonInfoLasergun:=Build Lasergun, incredible range of fire, however, the further away the target is, the less damage it will receive due to losses on heating the air.
+buttonInfoThunder:=Build Thunder, lightning strikes on the channel ionized by the laser, incapacitates electronics for some time, This weapon needs upgrades to reach its full potential.
+buttonInfoRocketLauncher:=Build Rocket launcher, does not require eye contact to aim at a target, Area damage, This weapon needs upgrades to reach its full potential.
+
+buttonInfoTerraformingUP:=Raising the ground level, the cost depends on the complexity of the procedures
+buttonInfoTerraformingDown:=Lowering the ground level, the cost depends on the complexity of the procedures
+
+сellBuildBase:=Main base, the last frontier of mankind, the headquarters is on board the rocket, it is necessary to prepare the rocket for departure and protect in any way!!
+
+VictoryLeaderTitle:=Leaders in this land
+VictoryLeaderName:=Name
+VictoryLeaderScore:=Kills
+
+BadGenTitle:=Bad Generation
+BadGenInfo:=
+
+
+resTitleTechChose:=Chose Tech
+resTitleTechAllDone:=All techs have been researched
+
+resAllAccuracy1Name:=Accuracy I
+resAllAccuracy1Info:=Slightly reduce bullet spread of guns on platforms.
+buttonInfoResAccuracy1:=improve shooting accuracy
+resAllAccuracy2Name:=Accuracy II
+resAllAccuracy2Info:=Reduce bullet spread of guns on platforms.
+buttonInfoResAccuracy2:=improve shooting accuracy
+resAllAccuracy3Name:=Accuracy III
+resAllAccuracy3Info:=Greatly Reduce bullet spread of guns on platforms.
+buttonInfoResAccuracy3:=improve shooting accuracy
+
+resAllDamage1Name:=Damage I
+resAllDamage1Info:=Slightly increases the damage of guns on platforms.
+buttonInfoResDamage1:=damage increase
+resAllDamage2Name:=Damage II
+resAllDamage2Info:=Doubles guns damage on platforms.
+buttonInfoResDamage2:=damage increase
+resAllDamage3Name:=Damage III
+resAllDamage3Info:=Greatly increases the damage of guns on platforms.
+buttonInfoResDamage3:=damage increase
+
+resAllRotate1Name:=Rotate I
+resAllRotate1Info:=Slightly increases targeting speed of guns on platforms.
+buttonInfoResRotate1:=Doubles rotate speed
+resAllRotate2Name:=Rotate II
+resAllRotate2Info:=Speeds up targeting of guns on platforms.
+buttonInfoResRotate2:=Increases rotation speed
+resAllRotate3Name:=Rotate III
+resAllRotate3Info:=Greatly increases targeting speed of guns on platforms.
+buttonInfoResRotate3:=Increases rotation speed
+
+resAllSpeed1Name:=Fire speed I
+resAllSpeed1Info:=Slightly increases speed fire of guns on platforms.
+buttonInfoResSpeed1:=Increase rate of fire
+resAllSpeed2Name:=Fire speed II
+resAllSpeed2Info:=Speeds up speed fire of guns on platforms.
+buttonInfoResSpeed2:=Increase rate of fire
+resAllSpeed3Name:=Fire speed III
+resAllSpeed3Info:=Greatly increases speed fire speed of guns on platforms.
+buttonInfoResSpeed3:=Increase rate of fire
+
+resBuildMinigunName:=Minigun
+resBuildMinigunInfo:=High rate of fire and destructive power, compensate for low accuracy, recommended in places where enemies are concentrated
+resBuildLaserName:=Laser
+resBuildLaserInfo:=Creating a photon adder, where weak lasers give one directional powerful flux of photons.
+resBuildThunderName:=Thunder
+resBuildThunderInfo:=The air heated by the laser is an ion channel through which a powerful directed charge of energy is launched.
+resBuildArtilleryName:=Artillery
+resBuildArtilleryInfo:=old technology of firing even if the enemy is not visible due to obstacles.
+resBuildRocketName:=Rocket Launcher
+resBuildRocketInfo:=Homing missiles dealing damage in an area, the building requires a lot of investment for efficiency.
+
+resAllDist1Name:=Fire distance I
+resAllDist1Info:=Slightly increases the fire distance of guns on platforms.
+buttonInfoResDistance1:=increased firing range.
+resAllDist2Name:=Fire distance II
+resAllDist2Info:=Up fire distance of guns on platforms.
+buttonInfoResDistance2:=increased firing range.
+resAllDist3Name:=Fire distance III
+resAllDist3Info:=Greatly increases the fire distance of guns on platforms.
+buttonInfoResDistance3:=increased firing range.
+
+creditsDeveloper:=
+creditsArtist:=
+creditsTranslatedPersonName:=
+creditsTranslated:=
+creditsThanks:=

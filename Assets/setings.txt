@@ -1,0 +1,28 @@
+=====Main setings=====
+ 
+Language:=Russian
+ 
+PlayerColor:=1,681694
+ 
+          Volume
+volume_all:=0,3
+volume_music:=0
+volume_sound:=1
+ 
+          Video
+grafic_lvl:=2
+shader:=True
+ 
+          Controller
+speed_controller:=2
+ 
+          Server
+server_name:=Test
+server_password:=kok159
+server_players_max:=2
+ 
+          Connect
+ConnectIP:=192.168.1.172
+ 
+          Gameplay
+ResearchTech:=

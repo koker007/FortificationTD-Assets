@@ -1,0 +1,185 @@
+﻿translatedBy:=Koker 007
+
+menuButtonReturn:=Назад
+menuButtonPlay:=Играть
+menuButtonConnect:=Подключиться
+menuButtonReseach:=Иследования
+menuButtonSettings:=Настройки
+menuButtonExit:=Выйти
+
+menuPlayTitle:=Начать игру
+menuPlayButtonSingle:=Одиночная
+menuPlayButtonServer:=Сервер
+menuPlayButtonStart:=Старт
+menuPlayServerParametrName:=Имя
+menuPlayServerParametrMaxPlayers:=Максимум игроков
+menuPlayServerParametrPassword:=Пароль
+
+menuResearchInfo:=Нейроданные необходимы для изучения технологий, вы забераете с собой все собранные нейроданные только после победы, для изучения технологий требуется некоторое время, после начала иследования вы можете начать новую игру не дожидаясь завершения иследования, технологии будут доступны сразу после завершения иследования.
+
+menuConnectTitle:=Подключение
+menuConnectButtonRefresh:=Обновить
+menuConnectPassword:=Введите пароль
+menuConnectButtonConnect:=Подключиться
+menuConnectInfoClickToJoin:=Нажмите чтобы подключиться
+menuConnectInfoChooseALobby:=Выберите сервер
+menuConnectInfoInputPassword:=Введите пароль
+menuConnectInfoNotCorrectPassword:=Неверный пароль
+menuConnectInfoLobbyIsFull:=Сервер заполнен
+menuConnectLobbyInfoName:=Имя сервера
+menuConnectLobbyInfoPass:=Пароль
+menuConnectLobbyInfoGame:=Игра
+menuConnectLobbyInfoPlayers:=Игроков
+
+menuSetingsTitle:=Настройки
+menuSetingsSound:=Звук
+menuSetingsVolumeAll:=Общая громкость
+menuSetingsVolumeMusic:=Музыка
+menuSetingsVolumeSound:=Звуки
+menuSetingsVideo:=Видео
+menuSetingsWindowSize:=Разрещение
+menuSetingsFullscreen:=Полный экран
+menuSetingsGraphic:=Качество
+menuSetingsShader:=Шейдер
+menuSetingsGame:=Игра
+menuSetingsLanguage:=Язык
+menuSetingsInfoChangesTobeAfterRestartGame:=Изменения будут после перезапуска игры
+
+
+menuExitTitle:=Выйти?
+menuExitNo:=Нет
+menuExitYes:=Да
+
+menuGameplay1Title:=Параметры игры
+menuGameplay1Seed:=Семя
+menuGameplay1EnterSeed:=Введите семя
+menuGameplay1Verified:=Провереные
+menuGameplay1Random:=Случайно
+menuGameplay1Color:=Ваш цвет
+menuGameplay1PlayerName:=Имя игрока
+menuGameplay1PlayerColor:=Цвет
+menuGameplay1PlayerReadiness:=Готовность
+menuGameplay1ReadyToPlay:=Готов
+
+Gameplay2UpPanelButtonMenu:=Меню
+Gameplay2UpPanelButtonEscape:=Побег
+
+Gameplay4Victory:=Победа
+Gameplay4Defeat:=Поражение
+Gameplay4Seed:=Семя
+Gameplay4GameplayTime:=Время игры
+Gameplay4Kills:=Убито
+Gameplay4Neirodata:=Нейроданные
+Gameplay4DefeatText:=Проигравшие не пишут историю
+Gameplay4ButtonRestart:=Заново
+
+buttonSeedRandom:=Случайное семя, генератор маршрута может ошибаться.
+buttonSeedVerified:=Только проверенное игроками семя, где хотя-бы один робот смог дойти до базы.
+
+targetModeInfoSpeedMax:=Приоритет цели по максимальной скорости
+targetModeInfoHeathMax:=Приоритет цели по максимальному здоровью
+targetModeInfoDistMax:=Приоритет цели на самую дальнюю от турели
+targetModeInfoTraficMax:=Приоритет цели на дальнюю от базы по маршруту
+targerModeInfoSpeedMin:=Приоритет цели по минимальной скорости
+targetModeInfoHeathMin:=Приоритет цели по минимальному здоровью
+targetModeInfoDistMin:=Приоритет цели на ближайшую к турели
+targetModeInfoTraficMin:=Приоритет цели на ближайшую к базе по маршруту
+
+buttonReadyEscape:=Сбежать на марсианскую базу и забрать собранные нейроданные с собой. Вы можете остаться чтобы получить больще нейроданных, но следующий побег будет возможен только когда марс снова приблизится к земле.
+
+buttonInfoDestroy:=Уничтожить постройку и получить 50% от её итоговой ценности.
+buttonInfoPlatform:=Построить платформу, основа для строительства орудий, препятствует движению врагов.
+
+buttonInfoBlockCrab:=Препятствует движению только крупных врагов.
+buttonInfoBlockCar:=Препятствует движению колесному транспорту.
+
+buttonInfoPillBox:=Построить ДОТ, может принять на себя больще улучшений, подходит только на начальных стадиях защиты.
+buttonInfoArtillery:=Построить артиллерию, стреляет по параболе, не требует прямой видимости врагов, урон по площади. Требует улучщений чтобы раскрыть весь свой потенциал.
+buttonInfoTurret:=Построить турель, большой урон снаряда, низкая скорострельность.
+buttonInfoMinigun:=Построить миниган, очень большая скорость стрельбы, медленное вращение
+buttonInfoLasergun:=Построить лазерное орудие, невероятная дальность стрельбы, однако, чем дальше цель тем меньше урон из за потерь на нагрев воздуха.
+buttonInfoThunder:=Построить грозу, бьет разрядом по ионизированному лазером каналу, временно выводит из строя электроннику, Требует улучщений чтобы раскрыть весь свой потенциал.
+buttonInfoRocketLauncher:=Построить ракетную шахту, не требует прямой видимости цели, урон по площади, Требует улучщений чтобы раскрыть весь свой потенциал.
+
+buttonInfoTerraformingUP:=Повышение уровня земли, стоимость зависит от сложности процедуры
+buttonInfoTerraformingDown:=Понизить уровень земли, стоимость зависит от сложности процедуры
+
+сellBuildBase:=Основная база, последний рубеж человечества на земле, штаб находится на борту ракеты, необходимо подготовить ракету к вылету, собрать как можно больше нейроданных для дальнейшей борьбы человечества, и обязательно улелеть на марс!!!
+
+VictoryLeaderTitle:=Лидеры текущей земли
+VictoryLeaderName:=Имя
+VictoryLeaderScore:=Убийства
+
+BadGenTitle:=Ошибка маршрута
+BadGenInfo:=
+
+
+resTitleTechChose:=Выберите технологию
+resTitleTechAllDone:=Все технологии были изучены
+
+resAllAccuracy1Name:=Точность I
+resAllAccuracy1Info:=Слегка уменьшает разброс снарядов у орудий.
+buttonInfoResAccuracy1:=Улучшить точность стрельбы
+resAllAccuracy2Name:=Точность II
+resAllAccuracy2Info:=Уменьшает разброс снарядов у орудий.
+buttonInfoResAccuracy2:=Улучшить точность стрельбы
+resAllAccuracy3Name:=Точность III
+resAllAccuracy3Info:=Значительно уменьшает разброс снарядов у орудий.
+buttonInfoResAccuracy3:=Улучшить точность стрельбы
+
+resAllDamage1Name:=Урон I
+resAllDamage1Info:=Немного увеличивает урон орудий на платформах.
+buttonInfoResDamage1:=увеличить урон
+resAllDamage2Name:=Урон II
+resAllDamage2Info:=Увеличивает урон орудий на платформах.
+buttonInfoResDamage2:=увеличить урон
+resAllDamage3Name:=Урон III
+resAllDamage3Info:=Значительно увеличивает урон орудий на платформах.
+buttonInfoResDamage3:=увеличить урон
+
+resAllRotate1Name:=Вращение I
+resAllRotate1Info:=Немного увеличивает скорость вращения у орудий на платформах.
+buttonInfoResRotate1:=Удвоить скорость вращения
+resAllRotate2Name:=Вращение II
+resAllRotate2Info:=Увеличивает скорость вращения у орудий на платформах.
+buttonInfoResRotate2:=Ускорить вращение
+resAllRotate3Name:=Вращение III
+resAllRotate3Info:=Значительно увеличивает скорость вращения у орудий на платформах.
+buttonInfoResRotate3:=Ускорить вращение
+
+resAllSpeed1Name:=Скорострельность I
+resAllSpeed1Info:=Немного увеличивает скорострельность орудий на платформах.
+buttonInfoResSpeed1:=Повысить скорострельность
+resAllSpeed2Name:=Скорострельность II
+resAllSpeed2Info:=Увеличивает скорострельность орудий на платформах.
+buttonInfoResSpeed2:=Повысить скорострельность
+resAllSpeed3Name:=Скорострельность III
+resAllSpeed3Info:=Значительно увеличивает скорострельность орудий на платформах.
+buttonInfoResSpeed3:=Повысить скорострельность
+
+resBuildMinigunName:=Миниган
+resBuildMinigunInfo:=Высокая скорострельность и урон компенсируют низкую точность, рекомендуется в местах высокой плотности врагов.
+resBuildLaserName:=Лазер
+resBuildLaserInfo:=Создание лазерного суматора, где множество слабых лазеров дают мощный однонаправленный поток фотонов.
+resBuildThunderName:=Гроза
+resBuildThunderInfo:=Оказывается нагретый лазером воздух становится ионизированным, что позволяет пустить по этому каналу мощьный направленный разряд энергии
+resBuildArtilleryName:=Артиллерия
+resBuildArtilleryInfo:=Старая техника ведения стрельбы если противника не видно из за препятствий 
+resBuildRocketName:=Ракетная шахта
+resBuildRocketInfo:=Самонаводящиеся ракеты наносят урон по области, здание требует больших вложений чтобы быть эффективным
+
+resAllDist1Name:=Дальность I
+resAllDist1Info:=Немного увеличивает дальность стрельбы орудий на платформах.
+buttonInfoResDistance1:=Увеличить дальность стрельбы.
+resAllDist2Name:=Дальность II
+resAllDist2Info:=Увеличивает дальность стрельбы орудий на платформах.
+buttonInfoResDistance2:=Увеличить дальность стрельбы.
+resAllDist3Name:=Дальность III
+resAllDist3Info:=Значительно увеличивает дальность стрельбы орудий на платформах.
+buttonInfoResDistance3:=Увеличить дальность стрельбы.
+
+creditsDeveloper:=Разработчик
+creditsArtist:=Художник
+creditsTranslatedPersonName:=Koker 007
+creditsTranslated:=Перевод
+creditsThanks:=Спасибо

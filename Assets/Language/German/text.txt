@@ -1,0 +1,184 @@
+﻿translatedBy:=Koker 007
+
+menuButtonReturn:=zurück
+menuButtonPlay:=abspielen
+menuButtonConnect:=verbinden
+menuButtonReseach:=Forschung
+menuButtonSettings:=Parameter
+menuButtonExit:=Ausgabe
+
+menuPlayTitle:=Starte das Spiel
+menuPlayButtonSingle:=Single
+menuPlayButtonServer:=Server
+menuPlayButtonStart:=starten
+menuPlayServerParametrName:=Name
+menuPlayServerParametrMaxPlayers:=maximale Spieler
+menuPlayServerParametrPassword:=Passwort
+
+menuResearchInfo:=Neirodata wird benötigt, um Technologie zu studieren, Sie nehmen alle gesammelten Neirodata mit, nur wenn Sie gewinnen, es dauert einige Zeit, um Technologien zu recherchieren, nach Beginn der Forschung können Sie ein neues Spiel starten, ohne auf den Abschluss der Recherche warten zu müssen.
+
+menuConnectTitle:=verbinden
+menuConnectButtonRefresh:=Suche
+menuConnectPassword:=Passwort eingeben...
+menuConnectButtonConnect:=Verbinden
+menuConnectInfoClickToJoin:=Klicken, um eine Verbindung
+menuConnectInfoChooseALobby:=Server auswählen
+menuConnectInfoInputPassword:=Passwort eingeben
+menuConnectInfoNotCorrectPassword:=Ungültiges Passwort
+menuConnectInfoLobbyIsFull:=Server ist voll
+menuConnectLobbyInfoName:=Servername
+menuConnectLobbyInfoPass:=Passwort
+menuConnectLobbyInfoGame:=Spiel
+menuConnectLobbyInfoPlayers:=Spieler
+
+menuSetingsTitle:=Spielparameter
+menuSetingsSound:=Klang
+menuSetingsVolumeAll:=Gesamtvolumen
+menuSetingsVolumeMusic:=Musik
+menuSetingsVolumeSound:=Geräusche
+menuSetingsVideo:=Video
+menuSetingsWindowSize:=Fenstergröße
+menuSetingsFullscreen:=Vollbild
+menuSetingsGraphic:=Qualität
+menuSetingsShader:=Shader
+menuSetingsGame:=Das Spiel
+menuSetingsLanguage:=Sprache
+menuSetingsInfoChangesTobeAfterRestartGame:=Änderungen werden nach dem Neustart
+
+menuExitTitle:=Hinausgehen?
+menuExitNo:=Nein
+menuExitYes:=Ja
+
+menuGameplay1Title:=Spieleinstellungen
+menuGameplay1Seed:=Samen
+menuGameplay1EnterSeed:=Geben Samen ein
+menuGameplay1Verified:=Verifiziert
+menuGameplay1Random:=zufällig
+menuGameplay1Color:=Deine Farbe
+menuGameplay1PlayerName:=Spielername
+menuGameplay1PlayerColor:=Farbe
+menuGameplay1PlayerReadiness:=Bereitschaft
+menuGameplay1ReadyToPlay:=Bereit
+
+Gameplay2UpPanelButtonMenu:=Menu
+Gameplay2UpPanelButtonEscape:=fliehen
+
+Gameplay4Victory:=Sieg
+Gameplay4Defeat:=Niederlage
+Gameplay4Seed:=Samen
+Gameplay4GameplayTime:=Spielzeit
+Gameplay4Kills:=Getötet
+Gameplay4Neirodata:=Neurodaten
+Gameplay4DefeatText:=die Verlierer schreiben keine Geschichte
+Gameplay4ButtonRestart:=neu starten
+
+buttonSeedRandom:=Zufälliger Startwert, Routengenerator kann stecken bleiben.
+buttonSeedVerified:=Nur verifizierte Seeds, auf denen Spieler bereits gespielt haben, und Roboter erreichen die Basis.
+
+targetModeInfoSpeedMax:=Zielpriorität auf Höchstgeschwindigkeit
+targetModeInfoHeathMax:=Zielpriorität auf maximale Gesundheit
+targetModeInfoDistMax:=Priorität für das am weitesten sichtbare Ziel
+targetModeInfoTraficMax:=Zielpriorität auf die am weitesten entfernte Route
+targerModeInfoSpeedMin:=Zielpriorität auf Mindestgeschwindigkeit
+targetModeInfoHeathMin:=Zielpriorität auf minimale Gesundheit
+targetModeInfoDistMin:=Priorität zum nächsten sichtbaren Ziel
+targetModeInfoTraficMin:=Zielpriorität zum nächstgelegenen auf der Route
+
+buttonReadyEscape:=Entkomme zur Marsbasis und nimm deine gesammelten Neurodaten mit. Sie können bleiben und versuchen, weitere Neurodaten zu sammeln, aber Sie können nur wegfliegen, wenn der Mars wieder in Erdnähe ist.
+
+buttonInfoDestroy:=Zerstöre ein Gebäude und erhalte 50% seines Gesamtwertes.
+buttonInfoPlatform:=eine Plattform bauen, Basis für den Bau von Kanonen, behindert die Bewegung von Feinden.
+
+buttonInfoBlockCrab:=Blockieren der Bewegung großer Feinde
+buttonInfoBlockCar:=Blockierung der Bewegung des Landverkehrs
+
+buttonInfoPillBox:=Pillbox bauen, kann mehrere Technologien hintereinander aufnehmen, nur für frühe Verteidigungsstadien geeignet.
+buttonInfoArtillery:=Artillerie bauen, schießt ein Projektil in einer Parabel ab, Sichtlinie des Ziels ist nicht erforderlich, Flächenschaden. Erfordert Verbesserungen, um sein volles Potenzial auszuschöpfen.
+buttonInfoTurret:=Turm bauen, hoher Projektilschaden, niedrige Feuerrate.
+buttonInfoMinigun:=Baue eine Minigun, sehr schnelles Feuer, langsame Rotation
+buttonInfoLasergun:=Baue Lasergun, unglaubliche Feuerreichweite, aber je weiter das Ziel entfernt ist, desto weniger Schaden erleidet es durch Verluste beim Erhitzen der Luft.
+buttonInfoThunder:=Build Thunder, Blitzeinschläge auf den vom Laser ionisierten Kanal, macht die Elektronik für einige Zeit außer Betrieb. Diese Waffe muss aufgerüstet werden, um ihr volles Potenzial auszuschöpfen.
+buttonInfoRocketLauncher:=Raketenwerfer bauen, erfordert keinen Augenkontakt, um auf ein Ziel zu zielen, Flächenschaden, Diese Waffe benötigt Upgrades, um ihr volles Potenzial zu entfalten.
+
+buttonInfoTerraformingUP:=Anheben des Erde, die Kosten hängen von der Komplexität der Verfahren ab
+buttonInfoTerraformingDown:=Absenken des Erde, hängen die Kosten von der Komplexität der Verfahren ab
+
+сellBuildBase:=Hauptbasis, die letzte Grenze der Menschheit, das Hauptquartier ist an Bord der Rakete, es ist notwendig, die Rakete für den Abflug vorzubereiten und in irgendeiner Weise zu schützen!!!
+
+VictoryLeaderTitle:=Führer in diesem samen
+VictoryLeaderName:=Name
+VictoryLeaderScore:=Tötet
+
+BadGenTitle:=Schlechte Generation
+BadGenInfo:=
+
+
+resTitleTechChose:=Wählen Sie Technik
+resTitleTechAllDone:=Alle Technologien wurden erforscht
+
+resAllAccuracy1Name:=Accuracy I
+resAllAccuracy1Info:=Reduzieren Sie die Kugelausbreitung von Waffen auf Plattformen leicht.
+buttonInfoResAccuracy1:=Verbessern Sie die Schussgenauigkeit
+resAllAccuracy2Name:=Accuracy II
+resAllAccuracy2Info:=Reduzieren Sie die Kugelausbreitung von Waffen auf Plattformen.
+buttonInfoResAccuracy2:=Verbessern Sie die Schussgenauigkeit
+resAllAccuracy3Name:=Accuracy III
+resAllAccuracy3Info:=Verringern Sie die Kugelausbreitung von Waffen auf Plattformen erheblich.
+buttonInfoResAccuracy3:=Verbessern Sie die Schussgenauigkeit
+
+resAllDamage1Name:=Damage I
+resAllDamage1Info:=Erhöht leicht den Schaden von Waffen auf Plattformen.
+buttonInfoResDamage1:=damage increase
+resAllDamage2Name:=Damage II
+resAllDamage2Info:=Verdoppelt den Waffenschaden auf Plattformen.
+buttonInfoResDamage2:=damage increase
+resAllDamage3Name:=Damage III
+resAllDamage3Info:=Erhöht den Schaden von Waffen auf Plattformen erheblich.
+buttonInfoResDamage3:=damage increase
+
+resAllRotate1Name:=Rotate I
+resAllRotate1Info:=Erhöht die Zielgeschwindigkeit von Geschützen auf Plattformen leicht.
+buttonInfoResRotate1:=Doubles rotate speed
+resAllRotate2Name:=Rotate II
+resAllRotate2Info:=Beschleunigt das Zielen von Waffen auf Plattformen
+buttonInfoResRotate2:=Increases rotation speed
+resAllRotate3Name:=Rotate III
+resAllRotate3Info:=Erhöht die Zielgeschwindigkeit von Waffen auf Plattformen erheblich.
+buttonInfoResRotate3:=Increases rotation speed
+
+resAllSpeed1Name:=Fire speed I
+resAllSpeed1Info:=Erhöht leicht die Feuergeschwindigkeit von Geschützen auf Plattformen.
+buttonInfoResSpeed1:=Feuerrate erhöhen
+resAllSpeed2Name:=Fire speed II
+resAllSpeed2Info:=Beschleunigt das Geschwindigkeitsfeuer von Geschützen auf Plattformen.
+buttonInfoResSpeed2:=Feuerrate erhöhen
+resAllSpeed3Name:=Fire speed III
+resAllSpeed3Info:=Erhöht die Feuergeschwindigkeit von Geschützen auf Plattformen erheblich.
+buttonInfoResSpeed3:=Feuerrate erhöhen
+
+resBuildMinigunName:=Minigun
+resBuildMinigunInfo:=Hohe Feuerrate und Zerstörungskraft, kompensieren geringe Genauigkeit, empfohlen an Orten, an denen Feinde konzentriert sind
+resBuildLaserName:=Lasergun
+resBuildLaserInfo:=Erstellen eines Photonenaddierers, bei dem schwache Laser einen gerichteten starken Photonenfluss erzeugen.
+resBuildThunderName:=Thunder
+resBuildThunderInfo:=Die vom Laser erhitzte Luft ist ein Ionenkanal, durch den eine starke gerichtete Energieladung abgegeben wird.
+resBuildArtilleryName:=Artillery
+resBuildArtilleryInfo:=alte Technik des Schießens, auch wenn der Feind aufgrund von Hindernissen nicht sichtbar ist.
+resBuildRocketName:=Rocket Launcher
+resBuildRocketInfo:=Zielgerichtete Raketen, die in einem Gebiet Schaden anrichten, erfordert viel Investitionen für die Effizienz des Gebäudes.
+
+resAllDist1Name:=Fire distance I
+resAllDist1Info:=Erhöht leicht die Feuerdistanz von Geschützen auf Plattformen.
+buttonInfoResDistance1:=erhöhte Schussreichweite.
+resAllDist2Name:=Fire distance II
+resAllDist2Info:=Feuerdistanz von Geschützen auf Plattformen erhöhen.
+buttonInfoResDistance2:=erhöhte Schussreichweite.
+resAllDist3Name:=Fire distance III
+resAllDist3Info:=Erhöht die Schussentfernung von Geschützen auf Plattformen erheblich.
+buttonInfoResDistance3:=erhöhte Schussreichweite.
+
+creditsDeveloper:=Entwickler
+creditsArtist:=Künstler
+creditsTranslatedPersonName:=
+creditsTranslated:=
+creditsThanks:=Vielen Dank

@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6191890661942788832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6191890661942788838}
+  - component: {fileID: 6191890661942788839}
+  - component: {fileID: 6792749867086117029}
+  m_Layer: 0
+  m_Name: EnemyRosket
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6191890661942788838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6191890661942788832}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3734741707110285204}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6191890661942788839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6191890661942788832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81c3841851e123f49813eb748de46b03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncMode: 0
+  syncInterval: 0.1
+  ID: 0
+  healthNow: 10
+  healthStart: 10
+  healthBasic: 10
+  super: 0
+  damage: 1
+  reward: 0
+  neirodata: 1
+  speed: 1.1
+  SlopeSpeed: 0.25
+  typeEnemy: 1
+  SyncRandomTraficNext: 0
+  numMatColor: 0
+  meshRender: {fileID: 1106604586560571992}
+  cellPosNext: {x: 0, y: 0, z: 0}
+  CountDead: 0
+  GPCTRL: {fileID: 0}
+  traficNow: 9999999
+  animator: {fileID: 7292553885478626798}
+--- !u!65 &6792749867086117029
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6191890661942788832}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.3, y: 0.14, z: 0.3}
+  m_Center: {x: 0, y: 0.07, z: 0}
+--- !u!1001 &3773680822932576383
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6191890661942788838}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_Name
+      value: RosketRobot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 5f4bdcbc12c87b84fa08d5c8f2ef72f1, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5312a8fea6a2b3a418ec7051cd94bc23, type: 3}
+--- !u!4 &3734741707110285204 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+    type: 3}
+  m_PrefabInstance: {fileID: 3773680822932576383}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &7292553885478626798 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+    type: 3}
+  m_PrefabInstance: {fileID: 3773680822932576383}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &1106604586560571992 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 4253014007576482343, guid: 5312a8fea6a2b3a418ec7051cd94bc23,
+    type: 3}
+  m_PrefabInstance: {fileID: 3773680822932576383}
+  m_PrefabAsset: {fileID: 0}
